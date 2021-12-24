@@ -16,3 +16,19 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
   font-size: 0.857rem;
   color: #ea5455;
 }
+
+.viewRtl {
+  .react-viewer-canvas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .react-viewer-close > i {
+    left: 0 !important;
+  }
+
+  .react-viewer-canvas img {
+    transform: none !important;
+  }
+}
