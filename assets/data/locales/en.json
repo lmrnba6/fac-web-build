@@ -531,5 +531,8 @@
   "chapterMismatchAmount": "The chapters total is not the same the amount",
   "notEnoughMoney": "There is not enough money in this account",
   "licenses": "Licenses",
-  "lastResults": "Last results"
+  "lastResults": "Last results",
+  "receiver": "Recipient",
+  "selectReceiver": "Select recipient",
+  "searchByReceiver": "Search by recipient"
 }

@@ -531,5 +531,8 @@
   "ChapterMismatchAmount": "مجموع الفصول ليس هو نفسه المبلغ",
   "notEnoughMoney": "ليس هناك أموال كافية في هذا الحساب",
   "licenses": "التراخيص",
-  "lastResults": "آخر النتائج"
+  "lastResults": "آخر النتائج",
+  "receiver": "المستلم",
+  "selectReceiver": "حدد المستلم",
+  "searchByReceiver": "بحث حسب المستلم"
 }
