@@ -35,6 +35,7 @@
   "invalidEmail": "Invalid email address",
   "phone": "Phone",
   "upload": "Upload",
+  "download": "Download",
   "reset": "Reset",
   "uploadText": "Allowed JPG, GIF or PNG. Max size of 800kB",
   "cancel": "Cancel",
