@@ -535,5 +535,6 @@
   "lastResults": "Derniers résultats",
   "receiver": "Destinataire",
   "selectReceiver": "Sélectionner le destinataire",
-  "searchByReceiver": "Rechercher par destinataire"
+  "searchByReceiver": "Rechercher par destinataire",
+  "notifications": "Notifications"
 }
