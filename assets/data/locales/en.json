@@ -139,7 +139,7 @@
   "emailSentSuccessfully": "Email sent successfully",
   "date": "Date",
   "attachments": "Attachments",
-  "fileMaxSizeError": "You have reached the file size limit (4Mb)",
+  "fileMaxSizeError": "You have exceeded the upload maximum limit",
   "deleteEmailQuestion": "Do you really want to delete this email?",
   "deleteEmailsQuestion": "Do you really want to delete these emails?",
   "none": "None",

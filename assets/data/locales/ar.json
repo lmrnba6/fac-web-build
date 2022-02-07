@@ -139,7 +139,7 @@
   "emailSentSuccessfully": "تم إرسال البريد الإلكتروني بنجاح",
   "date": "تاريخ",
   "attachments": "المرفقات",
-  "fileMaxSizeError": "لقد وصلت إلى الحد الأقصى لحجم الملف (4 ميجا بايت)",
+  "fileMaxSizeError": "لقد تجاوزت الحد الأقصى للتحميل",
   "deleteEmailQuestion": "هل تريد حقًا حذف هذه الرسالة؟",
   "deleteEmailsQuestion": "هل تريد حقًا حذف هذه الرسائل؟",
   "none": "لا شيء",
