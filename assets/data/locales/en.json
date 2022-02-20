@@ -615,5 +615,9 @@
   "newCategory": "New category",
   "editCategory": "Edit category",
   "newSkill": "New skill",
-  "editSkill": "Edit skill"
+  "editSkill": "Edit skill",
+  "deleteCommentQuestion": "Do you really want to delete this comment?",
+  "commentCreatedSuccessfully": "Comment created successfully",
+  "commentUpdatedSuccessfully": "Comment updated successfully",
+  "commentDeletedSuccessfully": "Comment deleted successfully"
 }

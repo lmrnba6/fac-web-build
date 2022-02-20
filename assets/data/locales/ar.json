@@ -616,5 +616,9 @@
   "newCategory": "فئة جديدة",
   "editCategory": "تعديل الفئة",
   "newSkill": "مهارة جديدة",
-  "editSkill": "تعديل المهارة"
+  "editSkill": "تعديل المهارة",
+  "deleteCommentQuestion": "هل تريد حقًا حذف هذا التعليق؟",
+  "commentCreatedSuccessfully": "تم إنشاء التعليق بنجاح",
+  "commentUpdatedSuccessfully": "تم تحديث التعليق بنجاح",
+  "commentDeletedSuccessfully": "تم حذف التعليق بنجاح"
 }

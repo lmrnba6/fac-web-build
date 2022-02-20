@@ -616,5 +616,9 @@
   "newCategory": "Nouvelle catégorie",
   "editCategory": "Modifier la catégorie",
   "newSkill": "Nouvelle compétence",
-  "editSkill": "Modifier la compétence"
+  "editSkill": "Modifier la compétence",
+  "deleteCommentQuestion": "Voulez-vous vraiment supprimer ce commentaire ?",
+  "commentCreatedSuccessfully": "Commentaire créé avec succès",
+  "commentUpdatedSuccessfully": "Commentaire mis à jour avec succès",
+  "commentDeletedSuccessfully": "Commentaire supprimé avec succès"
 }
